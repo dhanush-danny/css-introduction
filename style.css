@@ -1,0 +1,11 @@
+body {
+    background-color: lightsteelblue;
+    font-weight: bolder;
+    color: black;
+    font-size: 50px;
+}
+
+#button{
+    background-color: cadetblue;
+    font-size: 30px;
+}
